@@ -1,7 +1,8 @@
 # Find_critical_point_to_function
 Analytisk og numerisk utregning av funksjon 
 
-Subject Mathematics 1000
+Subject:
+Mathematics 1000
 
 The task is to show analytical and numerical calculation of the maximum point of a given function: f(x) = exp(-x/4)*atan(x). 
 I am also asked to show that the maximum point can also be displayed with the following function: atan(x)-4/(x.^2+1) = 0 and prove that the two different
